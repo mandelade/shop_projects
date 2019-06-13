@@ -1,0 +1,32 @@
+一基本配置
+1> 数据库
+2> 静态资源配置
+3> 上传文件配置
+4> 修改语言 时区
+5> 拆分apps
+
+
+二 安装插件
+1> pymysql
+2> xadmin
+3> django-redis
+4> pillow
+5> django-captcha
+6> django-cors-headers
+7> djangorestframework
+
+需求分析
+购物类的网站
+1> 首页
+2> 商品详情
+3> 分类详情
+4> 用户系统
+5> 购物车
+6> 支付系统
+7> 日志系统
+8> 订单系统
+
+创建apps
+1> 将app存放到指定的目录中
+2> 注册app
+3> 注册二级路由
